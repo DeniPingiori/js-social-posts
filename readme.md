@@ -16,3 +16,8 @@ Ragioniamo come sempre a step.
 Prima scriviamo nei commenti la logica in italiano e poi traduciamo in codice.
 console.log() è nostro amico.
 Quando un pezzo di codice funziona, chiediamoci se possiamo scomporlo in funzioni più piccole.
+
+
+
+SCOMPOSIZIONE ES:
+1. carichiamo i dati deell'array nell'html utilizzando la struttura preseente nell'index

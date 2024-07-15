@@ -55,3 +55,12 @@ const posts = [
         "created": "2021-03-05"
     }
 ];
+
+
+//recupero elemento del dom che deve contenere i post 
+const container = document.getElementById('container');
+
+//ciclo i post per metterli dentro il container di sopra
+posts.forEach((post) => {
+    container.innerHTML += post.content
+})
